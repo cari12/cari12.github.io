@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-500 -500 1000 1000">
-	<defs>
-		<pattern id="CheckerPattern" patternUnits="userSpaceOnUse" x="0" y="0" width="30" height="30" viewBox="0 0 30 30">
-			<rect fill="#FFF" stroke="none" x="0" y="0" height="15" width="15"/>
-			<rect fill="#FFF" stroke="none" x="15" y="15" height="15" width="15"/>
-			<rect fill="#E5E5E5" stroke="none" x="15" y="0" height="15" width="15"/>
-			<rect fill="#E5E5E5" stroke="none" x="0" y="15" height="15" width="15"/>
-		</pattern>
-	</defs>
-
-	<g>
-		<title>“Transparent” Background Pattern, by Adam Stanislav</title>
-		<rect fill="url(#CheckerPattern)" stroke="none" x="-500" y="-500" width="1000" height="1000"/>
-	</g>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="400"
+   height="400"
+   id="svg2">
+  <defs
+     id="defs5" />
+  <path
+     d="M 545.87773 465.68433 A 198.37309 201.18689 0 1 1  149.13155,465.68433 A 198.37309 201.18689 0 1 1  545.87773 465.68433 z"
+     transform="matrix(4.570022e-2,0,0,4.506952e-2,184.1189,179.0118)"
+     style="fill:#ff4000;fill-opacity:1;stroke:#000000;stroke-width:41.17361069;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="path1306" />
 </svg>
